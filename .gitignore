@@ -1,0 +1,21 @@
+# React Native
+
+# Build files
+android/app/build/
+android/build/
+ios/build/
+ios/Pods/
+
+# React Native specific
+*.jsbundle
+*.jsc
+
+# IDE directories
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+logs/
